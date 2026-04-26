@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["autonomy","config","cost","domain_matcher","helpers","migration","pairing","platform","policy","provider_aliases","providers","scattered_types","schema","secrets","security","traits","workspace"]};

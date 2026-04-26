@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ConversationMessage","StreamError","StreamEvent","ToolsPayload"],"fn":["build_tool_instructions_text"],"struct":["ChatMessage","ChatRequest","ChatResponse","ProviderCapabilities","ProviderCapabilityError","StreamChunk","StreamOptions","TokenUsage","ToolCall","ToolResultMessage"],"trait":["Provider"],"type":["StreamResult"]};

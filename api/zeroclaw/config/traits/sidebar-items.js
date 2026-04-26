@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PropKind"],"struct":["PropFieldInfo","SecretFieldInfo"],"trait":["ChannelConfig","ConfigHandle","HasPropKind"]};
