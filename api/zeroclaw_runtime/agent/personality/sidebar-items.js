@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["load_personality","load_personality_files"],"struct":["PersonalityFile","PersonalityProfile"]};
